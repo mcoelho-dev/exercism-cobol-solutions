@@ -1,5 +1,4 @@
 # exercism-cobol-solutions
-markdown# exercism-cobol-solutions
 Exercism | COBOL Track
 
 ## Overview
